@@ -2,6 +2,23 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
+## Features
+
+This application covers angular features such as:
+
+- Custom components with @Component
+- Components @Input and @Output, event Emitters
+- ngFor
+- ngIf
+- ngClass
+- ngStyle
+- ngSwitch
+- Built-In Pipes
+- Async Pipe
+- Custom Pipes
+- @Injectable and Custom Services
+- HTTP Client - GET POST PUT DELETE
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
